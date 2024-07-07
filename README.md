@@ -105,4 +105,7 @@ data文件夹中的gossipcop_v3-1_style_based_fake.csv以及gossipcop_v3-4_story
 ```
 python main.py  --mode 0 --train address
 ```
-更改训练文件
+更改训练文件。
+
+## 注意事项
+由于课堂提供数据集有限，而该模型需要大量数据、知识库文件以及对应的图邻接矩阵才可实现较好的效果，本次复现过程中在使用新数据的同时使用了一部分的原数据，原数据链接在上面有提到
