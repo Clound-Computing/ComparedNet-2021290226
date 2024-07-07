@@ -75,3 +75,10 @@ Choose the different node to train and test(消融实验)
 python main.py --mode 0 --node 0
 ```
 
+```
+node_type:
+    '3 represents three types: Document&Entity&Topic;'
+    '2 represents two types: Document&Entiy; '
+    '1 represents two types: Document&Topic; '
+    '0 represents only one type: Document. '
+```
