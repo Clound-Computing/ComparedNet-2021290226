@@ -1,7 +1,7 @@
 本文章主要代码来自"[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
 这一片文章
 
-以下是该文件的结构
+以下是该仓库的结构
 ```
 FakeNewsDetection
 ├── README.md
